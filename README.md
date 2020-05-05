@@ -1,6 +1,6 @@
 # rockwind
 
-Rockwind is an example Web App combining mult-layout Rockstars website + data-driven Nortwhind Browser
+Rockwind is an example Web App combining multi-layout Rockstars website + data-driven Northwind Browser
 
 [![](https://raw.githubusercontent.com/ServiceStack/sharpscript/master/src/wwwroot/assets/img/screenshots/rockwind.png)](http://rockwind-sqlite.web-app.io)
 
